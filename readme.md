@@ -6,7 +6,7 @@
 
 
 
-![here](./pics/7.jpeg)
+![here](https://github.com/crankler/ROMA/blob/master/pics/7.jpeg)
 
 ![ewall](./pics/8.jpeg)
 
