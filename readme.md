@@ -4,5 +4,5 @@
 - github package for  ROMA!
 - mobile robot
 
-![here]([./7.jpeg](https://github.com/crankler/ROMA/7.jpeg))
+![here](https://github.com/crankler/ROMA/7.jpeg)
 
