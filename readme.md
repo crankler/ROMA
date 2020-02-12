@@ -6,8 +6,8 @@
 
 
 
-![here](./7.jpeg)
+![here](./pics/7.jpeg)
 
-![ewall](./8.jpeg)
+![ewall](./pics/8.jpeg)
 
-- tobe
+- tobe crankler
