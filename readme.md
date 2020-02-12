@@ -1,8 +1,8 @@
 *2020.2.12*
 -----------------------
 
-- github package in Dell G7 of ROMA!
+- github package for  ROMA!
+- mobile robot
 
 ![here]([./7.jpeg](https://github.com/crankler/ROMA/7.jpeg))
-
 
